@@ -3,11 +3,15 @@
 
 
 /*----------- HEADER --------------*/
-
+header {
+    background-image: -moz-element(images/wallpaper.jpg);
+}
 
 
 /*----------- MAIN --------------*/
+main ul.objectves {
 
+}
 
 
 /*----------- FOOTER --------------*/
