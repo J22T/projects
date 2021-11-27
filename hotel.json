@@ -1,0 +1,32 @@
+{
+    "hotels": [
+        {
+            "name": "marriott",
+            "rooms": 1000,
+            "gym": "Yes",
+            "roomTypes": ["king", "queen", "double"]
+            "address": "real hotel way",
+            "pictures": "room1.jpeg",
+        },
+        {
+            "name": "sheraton",
+            "rooms": 1000,
+            "gym": "Yes",
+            "roomTypes": ["king", "queen", "double"]
+            "address": "real hotel way",
+            "pictures": "room1.jpeg",
+
+        },
+        {
+            "name": "hilton",
+            "rooms": 1000,
+            "gym": "Yes",
+            "roomTypes": ["king", "queen", "double"]
+            "address": "real hotel way",
+            "pictures": "room1.jpeg",
+
+        },
+    ]
+
+
+}
